@@ -1,5 +1,11 @@
 Revision history for Perl extension Makefile::GraphViz.
 
+0.10 10/28/2005
+	- Move the repository to http://svn.berlios.de/svnroot/repos/makefilegv.
+	  The OpenFoundtry seems to have been down for weeks.
+	- Update the POD doc accordingly
+
+
 0.09 10/20/2005
 	- Remove blib from the repository.
 

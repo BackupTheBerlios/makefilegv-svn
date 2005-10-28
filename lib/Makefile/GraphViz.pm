@@ -453,7 +453,7 @@ L<Devel::Cover> report on this module test suite.
 =head1 REPOSITORY
 
 For the very latest version of this module, check out the source from
-L<https://svn.openfoundry.org/makefilegv> (Subversion). There is
+L<https://svn.berlios.de/svnroot/repos/makefilegv> (Subversion). There is
 anonymous access to all.
 
 =head1 BUGS
