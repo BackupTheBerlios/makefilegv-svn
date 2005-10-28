@@ -1,8 +1,8 @@
 #: Makefile-GraphViz.t
 #: Test Makefile::GraphViz
 #: Copyright (c) 2005 Agent Zhang
-#: v0.08
-#: 2005-09-30 2005-10-17
+#: v0.10
+#: 2005-09-30 2005-10-28
 
 use Test::More tests => 34;
 use Makefile::GraphViz;
