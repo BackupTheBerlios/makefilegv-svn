@@ -3,7 +3,7 @@
 #:   using GraphViz
 #: v0.10
 #: Copyright (c) 2005 Agent Zhang
-#: 2005-09-30 2005-10-28
+#: 2005-09-30 2005-10-31
 
 package Makefile::GraphViz;
 
@@ -22,14 +22,13 @@ our $IDCounter = 0;
 my %VirNodeStyle =
 (
     shape => 'plaintext',
-    color => 'red',
 );
 
 my %NormalNodeStyle =
 (
     shape => 'box',
     style => 'filled',
-    fillcolor => 'yellow',
+    fillcolor => '#f5f694',
 );
 
 my %EdgeStyle =
@@ -41,7 +40,7 @@ my %CmdStyle =
 (
     shape => 'ellipse',
     style => 'filled',
-    fillcolor => 'gray',
+    fillcolor => '#c7f77c',
 );
 
 my %InitArgs = (
