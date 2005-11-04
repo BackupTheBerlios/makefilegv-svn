@@ -1,5 +1,8 @@
 Revision history for Perl extension Makefile::GraphViz.
 
+0.11 11/4/2005
+	-
+
 0.10 10/28/2005
 	- Move the repository to http://svn.berlios.de/svnroot/repos/makefilegv.
 	  The OpenFoundtry seems to have been down for weeks.

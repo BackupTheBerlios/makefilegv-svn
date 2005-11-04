@@ -1,9 +1,9 @@
 #: Makefile/GraphViz.pm
 #: Plot the detailed structure of Makefiles
 #:   using GraphViz
-#: v0.10
+#: v0.11
 #: Copyright (c) 2005 Agent Zhang
-#: 2005-09-30 2005-10-31
+#: 2005-09-30 2005-11-04
 
 package Makefile::GraphViz;
 
@@ -15,7 +15,7 @@ use base 'Makefile::Parser';
 
 $Makefile::Parser::Strict = 0;
 
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 our $IDCounter = 0;
 
@@ -408,7 +408,7 @@ None by default.
 
 =head1 EXAMPLES
 
-Browse L<http://search.cpan.org/src/AGENT/Makefile-GraphViz-0.10/samples.html>
+Browse L<http://search.cpan.org/src/AGENT/Makefile-GraphViz-0.11/samples.html>
 for some sample output graphs.
 
 =head2 INTERNAL FUNCTIONS

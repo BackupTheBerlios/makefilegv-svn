@@ -1,5 +1,5 @@
 name: Makefile-GraphViz
-version: 0.10
+version: 0.11
 abstract: Plot Makefile building process using GraphViz
 author: Agent Zhang <agent2002@126.com>
 license: perl
