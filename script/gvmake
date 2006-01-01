@@ -80,6 +80,10 @@ gvmake - A make tool that generates pretty graphs from Makefile
     # specify the Makefile name explicitly:
     gvmake -f t/Makefile.old install
 
+	# specify the size of the output image:
+	gvmake -s 5x8	# width is 5 inch, and height is 8 inch
+
+
 =head1 DESCRIPTION
 
 This is a make tool that generates pretty graphs for the building
